@@ -1,4 +1,6 @@
 # GreenSpeed Project 
+![Green Speed](https://github.com/Edna722/green-hack/blob/main/Green%20Speed%20-%20White%20Bg.png?raw=true)
+
 
 
 * Green Speed is an innovative program designed to help users plan eco-friendly transportation by analyzing and predicting traffic frequency, suggesting optimal travel times, and ultimately reducing carbon footprints.
